@@ -1,6 +1,6 @@
 import React from 'react'
-import Typography from "@mui/material/Typography/Typography";
-import AppBar from "@mui/material/AppBar/AppBar";
+import Typography from "@mui/material/Typography";
+import AppBar from "@mui/material/AppBar";
 
 
 
